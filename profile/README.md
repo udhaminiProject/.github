@@ -35,21 +35,16 @@ Endesia, Nicholas Munyasi (2021). Unit cost of university education and its econ
 
 ## Personas
 
- - Persona 1: John, dreams to be an entrepreneur.
+ - Persona 1: Denis Wachira, dreams to be an Software Engineer.
  
-    • Name: John Shaw
-    
-    • Occupation: Senior high school graduate.
-    
-    • Demographic: 19 years old, lives in Nairobi. Born in a family of 6 siblings. Three of his siblings are in junior high school and two are in senior high school.         His parents’ occupation is small-scale farming.
-  
-  - Persona 2: Rebecca, dreams to be a Microsoft Cloud Advocate.
-  
-    • Name: Rebecca Stone
+    ![new](https://user-images.githubusercontent.com/57180726/227247599-644bbcc5-46c6-4897-80c2-a2d200e01140.PNG)
 
-    • Occupation: University Student
 
-    • Demographic: 22 years old, lives in Kirinyaga. Born in a family of 3 siblings. Brought up by a single parent. Her parent is struggling to raise the pending school fee balance for the current semester
+  
+  - Persona 2: Mike Ekope, a High school student.
+  
+    ![2](https://user-images.githubusercontent.com/57180726/227247880-8cc17613-067e-4048-9df4-cf30f200e711.PNG)
+
 
 ## Feedback
 
@@ -62,10 +57,11 @@ The level of confidence is good generally, include some PowerPoint slides as wel
 Strong idea,
 
 ## How it works:
-<img width="1074" alt="Drawing" src="https://user-images.githubusercontent.com/57180726/215202501-5408c3a7-2a6f-4fcc-ade0-68fd70aa57c3.png">
+<img width="956" alt="Drawing" src="https://user-images.githubusercontent.com/57180726/227248455-57a5ed8f-c892-4522-a4dc-a56ebdb006f1.png">
 
 
-This web Application allows the user to register and create a portal. Using his/her portal, the user can access a collection of scholarships fetched from the Azure Cosmos DB via the API. Azure Cosmos Database gets populated with scholarships from the internet via a web scrapping engine. The web application, API and web scraping Engine are hosted By Azure via Azure app services while the database runs on Azure cosmos Database. We use GitHub CI/CD to continually add new features to the web app, API and web scraping engine.
+
+This web Application allows the user to register and create a portal. Using his/her portal, the user can access a collection of scholarships fetched from the Azure Cosmos DB via the API. Azure Cosmos Database gets populated with scholarships from the internet and from companies we have. The web application, API and web scraping Engine are hosted By Azure via Azure app services while the database runs on Azure cosmos Database. We use GitHub CI/CD to continually add new features to the web app and API.
 
 ## Core Technologies
 
@@ -81,7 +77,7 @@ This web application is composed of a Frontend User Interface built with react.j
 
 ## The Business Plan:
 
-The app will generate income primarily through members’ subscriptions on a monthly or annual basis. The app will have 2 subscription tiers, free, premium. The free tier will limit students to a small number of scholarships while the premium tier will offer all available scholarships.
+Our platform is free to use. We will make money primary by charging organizations and companies who want to advertise their scholarships on our platform.By partnering with ministries of education from different countries, this will help us reach more students and partners in various parts of the world.
 
 ## Competition:
 
@@ -102,10 +98,18 @@ Our project will have three business model strategies,
   3. Advertising – To reach many schoolers we will use social media apps to advertise our product since majority of them are youth and spend most of their time using phones. One of the effective means we can also use is the use of the following media devices.  
 Radio advertising – Since radio is one of the most used media of communication, we are going to commercially do short radio adverts, with appropriate information. To make it effective we will use the most listened radio station by most youths both internationally and locally radio stations.
 
-  4. We will partner with organizations that offer scholarship. These scholarships from established organizations will be listed in our premium tier where students can access them.
+  4. We will partner with organizations that offer scholarship. These scholarships from established organizations will be listed in our premium tier where students can access them. 
  
- ## Additional Information:
+
+  ## Project Roadmap
+  ![WhatsApp Image 2023-03-23 at 15 52 47](https://user-images.githubusercontent.com/57180726/227249030-2fdab1ce-3f49-4b96-8b5f-dc8d2d1531a4.jpg)
+  
+  
+  ## Additional Information:
  
   Udhamini proprietary database contains legitimate scholarships scraped and submitted by the scholarship providers themselves. A dedicated team vets, reviews, updates and adds scholarships to our database daily. If a scholarship is discontinued, we make sure to remove it from our database. Many sites rent an outdated list of scholarships with little information or offer scholarships that are highly promotional in nature.
+
+
+
 
   
