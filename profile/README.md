@@ -29,9 +29,9 @@ The proposed system aims to achieve the following objectives;
 Our main audience is Junior high school (primary school) graduates, Senior high school (secondary school) graduates, and university and college, students. According to an article published by the university of Eldoret, education is costly in Kenya. A student is required to spend approximately Ksh. 100,000 on tuition fees in one academic year to earn a bachelor's degree. Many households in Kenya struggle to raise funds to cater to the basic needs for university students
 Endesia, Nicholas Munyasi (2021). Unit cost of university education and its economic implication for university students. http://erepository.uoeld.ac.ke/handle/123456789/1032
 
-> In Kenya, the hope of 45,000 students, who did the 2020 Kenya Certificate of Primary Education (KCPE) exams in March 2021, to get full scholarships for secondary education were shattered. Only 9000 students among 54,000 who applied for the Elimu Scholarship Program were selected to benefit from the scholarship. The statistics show that 83% of these students did not get any school fee aid and struggled to get their foot in tertiary learning institutions.
+> Mike Edong Ekope who lives in Mutaro slums defied all odds to score 367 marks in KCPE securing a Form One slot at Nyahururu Boys High School in Laikipia county.However, the needy student is yet to report to school due to lack of fees and has resorted to preparing and selling mandazi to raise $600 for admission. 
 
-  [Brian Mbuvi, (21 July 2021). 45,000 Form 1 Students Miss Scholarships](https://www.kenyans.co.ke/news/66770-45000-form-1-students-miss-scholarships)
+  [Japhet Ruto , (11 May 2022). Needy Maralal Student Sells Mandazi to Raise $600 Form One Fees Read more: https://www.tuko.co.ke/education/454218-mike-edong-ekope-needy-maralal-student-sells-mandazi-raise-ksh-60k-form-one-fees/](https://www.tuko.co.ke/education/454218-mike-edong-ekope-needy-maralal-student-sells-mandazi-raise-ksh-60k-form-one-fees/)
 
 ## Personas
 
@@ -77,7 +77,7 @@ This web application is composed of a Frontend User Interface built with react.j
 
 ## The Business Plan:
 
-Our platform is free to use. We will make money primary by charging organizations and companies who want to advertise their scholarships on our platform.By partnering with ministries of education from different countries, this will help us reach more students and partners in various parts of the world.
+Our platform is free to use.We have partnered with Github to make our project open source and [sponsors can contribute](https://github.com/sponsors/udhaminiProject) to our project via recurring monthly payments or one-time contributions. We will make money primary by charging organizations and companies who want to advertise their scholarships on our platform.By partnering with ministries of education from different countries, this will help us reach more students and partners in various parts of the world.
 
 ## Competition:
 
@@ -107,7 +107,7 @@ Radio advertising – Since radio is one of the most used media of communication
   
   ## Additional Information:
  
-  Udhamini proprietary database contains legitimate scholarships scraped and submitted by the scholarship providers themselves. A dedicated team vets, reviews, updates and adds scholarships to our database daily. If a scholarship is discontinued, we make sure to remove it from our database. Many sites rent an outdated list of scholarships with little information or offer scholarships that are highly promotional in nature.
+  Udhamini proprietary database contains legitimate scholarships fetched from the internet or submitted by the scholarship providers themselves. A dedicated team vets, reviews, updates and adds scholarships to our database daily. If a scholarship is discontinued, we make sure to remove it from our database. Many sites rent an outdated list of scholarships with little information or offer scholarships that are highly promotional in nature.
 
 
 
