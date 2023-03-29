@@ -4,13 +4,13 @@
 ## The team
 Team Score More is a group of innovative students who are focused on solving scholarships problem in our society. In the past, we have all had our struggles in paying for education, some of us being forced to differ from school and retake a semester another time. We supported each other through these hard times and decided to come up with the idea to create a scholarship system which would help make the experience a lot better for other students like us in society.
 
-1. Kevin Comba Gatimu - Kirinyaga University
+1. Kevin Comba Gatimu [MLSA] - Kirinyaga University
 BSc. Computer Science, Grad. 2023 - Software engineer who is an advocate of web development and cross-platform UI software solutions. – Team Lead.
 
-2. Samuel Kamotho - Kirinyaga University
+2. Samuel Kamotho [MLSA] - Kirinyaga University
 BSc. Computer Science, Grad. 2023 - Software developer and a Microsoft Learn student ambassador. Values creating impactful solutions
 
-3. Denis Wachira Kathuri - Kirinyaga University
+3. Denis Wachira Kathuri [MLSA]- Kirinyaga University
 BSc. Computer Science, Grad. 2025 – Database Engineer, passionate about using Azure cloud computing solutions.
 
 4.Charity Jelimo - Kirinyaga University 
